@@ -1,0 +1,5 @@
+Nombre: María Fernanda Ruiz, Cédula: 10203040, Síntoma: Fiebre moderada, Riesgo: 15
+Nombre: Ana Lucía Gómez, Cédula: 52418963, Síntoma: Esguince de tobillo, Riesgo: 25
+Nombre: Carlos Mendoza, Cédula: 10984512, Síntoma: Dolor torácico leve, Riesgo: 50
+Nombre: Jorge Ramírez, Cédula: 80147258, Síntoma: Dificultad respiratoria, Riesgo: 80
+Nombre: Luis Eduardo Torres, Cédula: 79456123, Síntoma: Trauma craneoencefálico, Riesgo: 95
